@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/MUKILANTITLE?style=social" alt="MUKILANTITLE" />
   </a>
   <a href="https://linkedin.com/in/mukilan-ss" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="mukilan-ss" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="mukilan ss" />
   </a>
 </p>
 
