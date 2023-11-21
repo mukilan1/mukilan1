@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/MUKILANTITLE" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mukilan_ss?style=social" alt="mukilan_ss" />
+    <img src="https://img.shields.io/twitter/follow/MUKILANTITLE?style=social" alt="MUKILANTITLE" />
   </a>
   <a href="https://linkedin.com/in/mukilan-ss" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="mukilan-ss" />
@@ -36,7 +36,21 @@ I specialize in Flutter and Python, focusing on automation, startup projects, an
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <!-- Add icons and links for your languages and tools here -->
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Canva_-_Logo.png" alt="canva" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/raspberry-pi-logo-vector.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
+  <a href="https://thonny.org/" target="_blank"> <img src="https://thonny.org/img/logo.png" alt="thonny" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
