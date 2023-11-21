@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Flutter & Python Developer | Automation Specialist | Startup Enthusiast</h3>
 
 <p align="center">
-  <a href="[https://twitter.com/mukilan_ss](https://twitter.com/MUKILANTITLE)" target="blank">
+  <a href="https://twitter.com/MUKILANTITLE" target="blank">
     <img src="https://img.shields.io/twitter/follow/mukilan_ss?style=social" alt="mukilan_ss" />
   </a>
   <a href="https://linkedin.com/in/mukilan-ss" target="blank">
